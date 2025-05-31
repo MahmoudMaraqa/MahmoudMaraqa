@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mahmoud Maraqa
 
-🎓 **Computer Engineering Graduate** from the University of Jordan with strong skills in both **hardware** and **software development**, especially in **Flutter**, **embedded systems**, and **AI-driven automation**. Passionate about building impactful, real-world applications and continuously learning new technologies.
+🎓 **Computer Engineering Graduate** from the University of Jordan with strong skills in both **hardware** and **software development**, especially in **programming languages**, **Flutter**, **embedded systems**, and **AI-driven automation**. Passionate about building impactful, real-world applications and continuously learning new technologies.
 
 ---
 
