@@ -34,4 +34,4 @@ Clean Architecture · AppLocalization · Figma (UI/UX Design) · AdMob · Raspbe
 
 ## 🧠 Interests
 
-Data Science · Mobile App Development · Embedded Systems · Computer Vision · Deep Learning · AI · Parallel Programming
+Mobile App Development · Embedded Systems . Flutter . Java . Python
