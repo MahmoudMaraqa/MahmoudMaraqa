@@ -17,7 +17,7 @@ Clean Architecture · AppLocalization · Figma (UI/UX Design) · AdMob · Raspbe
 ## 🚀 Projects
 
 - 🍎 **Real-Time Apple Sorting System**: Robotic system using Raspberry Pi, Flask, and YOLO for apple color categorization and sorting automation.
-- 📱 **E-Commerce App (Flutter)**: Built using Clean Architecture, with full API integration and push notifications. UI designed in Figma.
+- 📱 **E-Commerce UI (Flutter)**: Built using Clean Architecture, with full API integration and push notifications. UI designed in Figma.
 - 🎮 **Client-Server Game (Java)**: Multiplayer network game using TCP API.
 - 🎼 **PIC Piano Project**: Built a USART-based music-playing system in Assembly on PIC16F877A.
 - 🧮 **3-bit Pipelined Multiplier**: Hardware design at schematic and layout levels with pipeline registers.
