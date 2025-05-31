@@ -10,7 +10,7 @@
 Flutter · Dart · Kotlin · Java · Python · Verilog · Assembly · C++ · Firebase · APIs · SharedPreferences · SecureStorage
 
 **Frameworks & Platforms:**  
-Clean Architecture · AppLocalization · Figma (UI/UX Design) · AdMob · Raspberry Pi · Flask · TCP Sockets · Embedded Systems (PIC Microcontrollers)
+Clean Architecture · AppLocalization · Figma (UI/UX Design) · AdMob · Raspberry Pi  · Embedded Systems (PIC Microcontrollers)
 
 ---
 
